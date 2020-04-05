@@ -85,7 +85,7 @@ paráfrase e *commonsense reasoning*) com conjuntos de dados *em domínio* e des
 pré-treinados e prontos para uso são calibrados *em domínio*; e (2) escala de temperatura
 é eficaz na redução adicional de erros de calibração *em domínio*, enquanto *label
 smoothing* para aumentar a incerteza empírica ajuda a calibrar posteriores *fora do
-domínio*
+domínio*.
 
 
 \\
@@ -110,7 +110,7 @@ bem sucedidas.
 \\ Em um novo
 [artigo](https://thegradient.pub/towards-an-imagenet-moment-for-speech-to-text/) publicado
 no *The Gradient*, Alexander Veysov explica por que eles acreditam que o momento do
-ImageNet para *Speech-to-Text (STT)*chegou no contexto da língua russa. Nos últimos dois
+ImageNet para *Speech-to-Text (STT)* chegou no contexto da língua russa. Nos últimos dois
 anos, os pesquisadores também fizeram essa afirmação sobre NLP. No entanto, para para
 alcançar esse momento em STT, Alexander afirma que muitas peças precisam se unir, como
 disponibilizar amplamente os modelos, minimizar os requisitos computacionais e melhorar a
@@ -132,7 +132,7 @@ e navegue com mais eficiência tais documentos, utilizando um [modelo SciBERT co
 
 \\
 
-reciTAL também lançou um projeto chamado [COVID-19 *Smart Search
+A reciTAL também lançou um projeto chamado [COVID-19 *Smart Search
 Engine*](https://covidsmartsearch.recital.ai/) para ajudar a melhorar na pesquisa e
 navegação de artigos relacionados ao COVID-19, com o objetivo de ajudar pesquisadores e
 profissionais de saúde a encontrar e descobrir informações com rapidez e eficiência
@@ -200,7 +200,7 @@ Um dos maiores obstáculos a superar ao projetar redes neurais é o *overfitting
 atuais de aprimoramento da generalização, como *Dropout*, regularização e *Early Stopping*
 são muito eficazes para a maioria dos casos de uso; no entanto, elas tendem a ficar aquém
 ao usar modelos grandes ou conjuntos de dados menores. Em resposta a isso, Charles Averill
-desenvolveu a [KeraStroke] (https://pypi.org/project/kerastroke/#description), um novo
+desenvolveu a [KeraStroke](https://pypi.org/project/kerastroke/#description), um novo
 conjunto de técnicas de melhoria de generalização úteis para modelos grandes ou pequenos
 conjuntos de dados. Ao alterar os valores de peso em certos casos durante o treino, os
 modelos se adaptam dinamicamente aos dados de treino a que eles estão sendo alimentados.
@@ -251,13 +251,13 @@ futuros. Instruções para acessar o conjunto de dados podem ser encontradas nes
 do conjunto de dados para o *fine-tuning*.
 
 \\
-No tópico de *text summarization*, a equipe da HuggingFace adicionou ambos [BART]
-(https://github.com/pytorch/fairseq/blob/master/examples/bart/README.md) e [T5]
-(https://github.com/dair-ai/nlp_paper_summaries/blob/master/Language%20Modeling/t5-text-to-text-transformer.md)
-como parte de sua biblioteca de [Transformers]
-(https://github.com/huggingface/transformers/releases) . Essas adições permitem todos os
-tipos de tarefas de NLP, como *abstractive summarization*, tradução e *question
-answering*, entre outras.
+No tópico de *text summarization*, a equipe da HuggingFace adicionou ambos
+[BART](https://github.com/pytorch/fairseq/blob/master/examples/bart/README.md) e
+[T5](https://github.com/dair-ai/nlp_paper_summaries/blob/master/Language%20Modeling/t5-text-to-text-transformer.md)
+como parte de sua biblioteca de
+[Transformers](https://github.com/huggingface/transformers/releases) . Essas adições
+permitem todos os tipos de tarefas de NLP, como *abstractive summarization*, tradução e
+*question answering*, entre outras.
 
 
 # Artigos e Postagens ✍️
@@ -268,7 +268,7 @@ answering*, entre outras.
 melhorar modelos de visão computacional e previsão de efeitos colaterais devido a
 interações medicamentosas. Nessa [visão
 geral](https://dair.ai/An_Illustrated_Guide_to_Graph_Neural_Networks/), Rish apresenta um
-guia intuitivo e ilustrado para GNNs. (* Apresentado em * [* dair.ai *](https://dair.ai/))
+guia intuitivo e ilustrado para GNNs. (*Apresentado na* [*dair.ai*](https://dair.ai/))
 
 \\
 ![](https://cdn-images-1.medium.com/max/800/1*Ru3CizrB14hvpZQ7ZtgIag.png)
