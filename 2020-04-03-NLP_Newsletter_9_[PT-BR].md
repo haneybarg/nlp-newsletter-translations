@@ -278,8 +278,7 @@ guia intuitivo e ilustrado para GNNs. (*Apresentado na* [*dair.ai*](https://dair
 
 \\
 No mês passado, a DeepMind deixou o código de Haiku livre, a versão JAX da Sonnet, sua
-bliblioteca de redes neurais em TensorFlow. Esta [postagem]
-(https://www.pragmatic.ml/finetuning-transformers-with-jax-and-haiku/) percorre a fonte
+bliblioteca de redes neurais em TensorFlow. Esta [postagem](https://www.pragmatic.ml/finetuning-transformers-with-jax-and-haiku/) percorre a fonte
 completa de uma porta do modelo pré-treinado *RoBERTa* para JAX + Haiku, depois demonstra
 o *fine-tuning* do modelo para resolver uma tarefa especpifica (*downstream*). Ele
 pretende ser um guia prático de uso das utilidades expostas pelo Haiku para permitir o uso
