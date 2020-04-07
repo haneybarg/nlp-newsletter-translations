@@ -351,19 +351,18 @@ NLP. Como
 [declarado](https://medium.com/r/?url=https%3A%2F%2Ftwitter.com%2FCamachoCollados%2Fstatus%2F1246013768074747906%3Fs%3D20)
 pelos autores, o livro inclui "noções básicas de modelos de espaço vetorial e *word
 embeddings* a técnicas mais recentes de *embbedings* contextualizados com base em modelos
-de linguagem pré-treinados.""
+de linguagem pré-treinados."
 
 \\
 ***A Brief Guide to Artificial Intelligence***
 
 \\
-
-Dr. James V Stone recently published his new
-[book](https://jim-stone.staff.shef.ac.uk/AIGuide/) on “A Brief Guide to Artificial
-Intelligence” with the goal to provide a comprehensive overview of current AI systems and
-their achievement to perform a series of tasks. As stated in the summary, the book is
-“written in an informal style, with a comprehensive glossary and a list of further
-readings, which makes it an ideal introduction to the rapidly evolving field of AI.”
+O Dr. James V Stone publicou seu novo [livro](https://jim-stone.staff.shef.ac.uk/AIGuide/)
+sobre Um Guia Breve para a Inteligência Artificial (*“A Brief Guide to Artificial
+Intelligence”*) com o objetivo de prover uma análise geral de sistemas de IA atuais e suas
+conquistas para atuar em uma sére de tarefas. Como dito no sumário, o livro é escrito em
+um estilo informal, com um glossário amplo e uma lista de leituras posteriores, o que faz
+dele uma introdução ideal para o campo de evolução rápida que é a IA.
 
 \\
 ![](https://cdn-images-1.medium.com/max/800/0*I2YYXTCQTBmk_YiF.jpg)
