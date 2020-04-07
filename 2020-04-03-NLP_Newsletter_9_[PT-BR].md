@@ -315,7 +315,7 @@ guia para aquelas pessoas que trabalham em modelos diferentes no seu próprio id
 Marcin escreveu outro excelente
 [guia](https://zablo.net/blog/post/custom-classifier-on-bert-model-guide-polemo2-sentiment-analysis/)
 mostrando como criar seu próprio classificador (por exemplo, um classificador de
-sentimentos) em cima de modelos de lingaugem como o BERT. É um ótimo tutorial, porque
+sentimentos) em cima de modelos de linguagem como o BERT. É um ótimo tutorial, porque
 também mostra como usar outras bibliotecas para as diferentes partes do modelo, como o
 *HuggingFace Tokenizer* e *PyTorchLightning*. Encontre o notebbok do Google Colab
 [aqui](https://colab.research.google.com/drive/1sajgpLTrTJDzRSlxycy8aE6ysxGqaT18).
@@ -323,7 +323,7 @@ também mostra como usar outras bibliotecas para as diferentes partes do modelo,
 \\
 ![](https://cdn-images-1.medium.com/max/800/0*66IKvwYU2Lq1kjyn.png)
 
-[*Source*](https://zablo.net/blog/post/custom-classifier-on-bert-model-guide-polemo2-sentiment-analysis/)
+[*Fonte*](https://zablo.net/blog/post/custom-classifier-on-bert-model-guide-polemo2-sentiment-analysis/)
 
 
 # Educação 🎓
