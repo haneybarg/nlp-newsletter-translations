@@ -371,18 +371,11 @@ readings, which makes it an ideal introduction to the rapidly evolving field of 
 \\
 ***Cursos de ML e Aprendizado Profundo***
 
-\\
-Sebastian Raschka lançou dois [episódios]
-(https://www.youtube.com/watch?time_continue=1&v=QQD9Y2FiotQ&feature=emb_logo) gravados
-para seu curso sobre "Introdução ao Aprendizado Profundo e Modelos Generativos". Você pode
-encontrar notas de aula e outros materiais neste
+\\ Sebastian Raschka lançou dois
+[episódios](https://www.youtube.com/watch?time_continue=1&v=QQD9Y2FiotQ&feature=emb_logo)
+gravados para seu curso sobre "Introdução ao Aprendizado Profundo e Modelos
+Generativos". Você pode encontrar notas de aula e outros materiais neste
 [repositório](https://github.com/rasbt/stat453-deep-learning-ss20).
-
-Sebastian Raschka has released two recorded
-[episodes](https://www.youtube.com/watch?time_continue=1&v=QQD9Y2FiotQ&feature=emb_logo)
-for his course on “Introduction to Deep Learning and Generative Models”. You can find
-lecture notes and other materials in this
-[repo](https://github.com/rasbt/stat453-deep-learning-ss20).
 
 \\
 Aqui está outro excelente conjunto de
@@ -461,7 +454,7 @@ uma visão geral excelente, acessível e detalhada dessas abordagens.
 
 \\
 O TensorFlow 2.2.0-rc-1 foi
-n[liberado](https://github.com/tensorflow/tensorflow/releases/tag/v2.2.0-rc1?linkId=85073218). Ele
+[liberado](https://github.com/tensorflow/tensorflow/releases/tag/v2.2.0-rc1?linkId=85073218). Ele
 inclui recursos como um *Profiler* que ajuda a identificar gargalos em modelos de ML e
 orientar a otimização dos mesmos. Além disso, o Colab agora usa o TensorFlow 2 por
 [padrão](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/advanced.ipynb?linkId=85251566).
